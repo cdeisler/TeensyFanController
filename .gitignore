@@ -8,3 +8,5 @@ teensy_fan_controller/libraries/nanopb
 *.d
 *.hex
 *.elf
+Hardware/Simple/kicad/libraries/*
+Hardware/Simple/kicad/simple002-backups/*

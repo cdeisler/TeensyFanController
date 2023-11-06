@@ -1,4 +1,5 @@
 (sym_lib_table
-  (version 0)
+  (version 7)
   (lib (name "simple002-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/simple002-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "1725711")(type "Legacy")(uri "${KIPRJMOD}/libraries/1725711/KiCad/1725711.lib")(options "")(descr ""))
 )
